@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8545
     wikipedia: http://en.wikipedia.org/wiki/Charles_Hodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19192#What-is-Darwinism-
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2006-09-06'
 gutenberg_type: Text
